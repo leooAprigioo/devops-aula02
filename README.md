@@ -1,5 +1,6 @@
 # devops-aula02
 
 Adam Sandler
-Jennifer Lawrence
+Emma Charlotte Duerre Watson
 Neilton Patrick Harris
+Ed Sheeran
